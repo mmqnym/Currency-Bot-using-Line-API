@@ -1,0 +1,6 @@
+{
+    "SECRET_KEY": "",
+    "LINE_CHANNEL_ACCESS_TOKEN": "",
+    "LINE_CHANNEL_SECRET": "",
+    "ALLOWED_HOSTS": []
+}
