@@ -66,6 +66,15 @@ pip install -r requirements.txt
 
 將`configs_.json`更名為`configs.json`，之後寫入下方教學告知如何取得的參數，請勿直接照下方教學的方式將任何密鑰直接寫入`settings.py`，除非你知道風險以及知道怎麼做。
 
+``` json
+{
+    "SECRET_KEY": "",
+    "LINE_CHANNEL_ACCESS_TOKEN": "",
+    "LINE_CHANNEL_SECRET": "",
+    "ALLOWED_HOSTS": []
+}
+```
+
 其餘步驟請參考[Line Bot 教學](https://www.learncodewithmike.com/2020/06/python-line-bot.html)，因為還需要API KEY、Webhook URL、Secret KEY...等，內有詳細建置說明。
 
 <br />
