@@ -62,6 +62,10 @@ https://user-images.githubusercontent.com/102388049/182193626-9ce0acca-a9ff-43ea
 pip install -r requirements.txt
 ```
 
+<br />
+
+將`configs_.json`更名為`configs.json`，之後寫入下方教學告知如何取得的參數，請勿直接照下方教學的方式將任何密鑰直接寫入`settings.py`，除非你知道風險以及知道怎麼做。
+
 其餘步驟請參考[Line Bot 教學](https://www.learncodewithmike.com/2020/06/python-line-bot.html)，因為還需要API KEY、Webhook URL、Secret KEY...等，內有詳細建置說明。
 
 <br />
@@ -69,7 +73,7 @@ pip install -r requirements.txt
 ## Room for Improvement
 > 將原本的同步伺服器架構改為非同步。
 
-開發此機器人時，本人還是個python初學者，現在有能力將機器人改以非同步的架構運行，遇利用本庫的開發者可以考慮更改架構以促進效能，特別是爬蟲改以[pyppeteer](https://github.com/pyppeteer/pyppeteer)運行能大幅提高速度，前提是必須使用非同步伺服器架構。
+開發此機器人時，本人還是個python初學者，現在有能力將機器人改以非同步的架構運行，打算利用本庫的開發者可以考慮更改架構以促進效能，特別是爬蟲改以[pyppeteer](https://github.com/pyppeteer/pyppeteer)運行能大幅提高速度，前提是必須使用非同步伺服器架構。
 
 <br />
 
