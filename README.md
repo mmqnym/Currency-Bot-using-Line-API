@@ -26,7 +26,7 @@
 <br />
 
 ### 匯率功能
-![currency](doc/demo.mp4)
+![demo](https://user-images.githubusercontent.com/102388049/182193626-9ce0acca-a9ff-43ea-8826-c1fe43c1f7d9.mp4)
 
 <br />
 
